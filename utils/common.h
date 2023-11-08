@@ -1,1 +1,0 @@
-#define NAME_STR "name"

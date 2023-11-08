@@ -1,5 +1,5 @@
 #include <iostream>
-#define NMAE_STR "name"
+
 #include <algorithm>
 
 int main(int argc, char** argv){
