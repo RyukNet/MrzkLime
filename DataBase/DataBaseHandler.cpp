@@ -17,3 +17,6 @@ DataBaseHandler* DataBaseHandler::instance(){
 void DataBaseHandler::setUpdateMode(bool tracking){
 
 }
+void DataBaseHandler::uninitialize(){
+
+} 
