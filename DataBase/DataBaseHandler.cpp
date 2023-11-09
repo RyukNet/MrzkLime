@@ -12,3 +12,7 @@ DataBaseHandler* DataBaseHandler::instance(){
     }
     return _instance;
 }
+
+void DataBaseHandler::uninitialize(){
+
+} 
